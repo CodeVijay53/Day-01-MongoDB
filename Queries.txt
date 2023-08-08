@@ -1,5 +1,5 @@
 
-1. Find all the information about each products
+1. Find all the information about each products in the web
 db.TrialDB.find({}, {"_id":0});
 
 *******************----------------------------------------------------*************************
